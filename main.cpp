@@ -1,7 +1,5 @@
 #include <iostream>
-
-int main() {
-    std::cout << "Beginning Task Manager Activities" << std::endl;
-    // TODO: Add task manager activities
-    return 0;
+int main(){
+std::cout<<"tesssssssssssst"<< endl;
+return 0;
 }
