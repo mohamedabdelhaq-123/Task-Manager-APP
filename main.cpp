@@ -1,5 +1,6 @@
 #include <iostream>
 int main(){
-std::cout<<"test"<<endl;
+std::cout<<"test"<<std::endl;
+std::cout<<"tesssssssssssssst"<<std::endl;
 return 0;
 }
